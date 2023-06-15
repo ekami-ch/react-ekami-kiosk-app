@@ -134,7 +134,7 @@
             "resettable": false
           },
           {
-            "id": "phonenumber",
+            "id": "phone",
             "label": "Phone Number",
             "type": "tel",
             "defaultValue": "0123456789",
