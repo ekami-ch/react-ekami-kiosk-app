@@ -396,8 +396,8 @@
       "companyName": ""
     },
     "buttons": {
-      "print": "Terminé/Finished",
-      "user": "Autre personne/Other person"
+      "print": "Terminé / Finished",
+      "user": "Autre parent-enfant / Add family member"
     },
     "messages": {
       "thanks": "Thank you!"
